@@ -1,6 +1,6 @@
 # resepmasak
 
-A new Flutter project.
+Resepmasakan Project Statis Data yang di simpan ke model dan di tampilkan dengan UI Flutter
 
 ## Getting Started
 
